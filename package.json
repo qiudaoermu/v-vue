@@ -1,0 +1,23 @@
+{
+  "name": "v-vue",
+  "version": "1.0.0",
+  "description": "an collection of v-direction",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup index.js --file mian.js --format cjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qiudaoermu/v-vue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qiudaoermu/v-vue/issues"
+  },
+  "homepage": "https://github.com/qiudaoermu/v-vue#readme",
+  "dependencies": {
+    "rollup": "^2.57.0"
+  }
+}
